@@ -1,0 +1,5 @@
+provider: generic
+url: https://api.vgn.cn/device/update/win32
+channel: latest
+useMultipleRangeRequest: false
+updaterCacheDirName: atk-v-hub-updater
